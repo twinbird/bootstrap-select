@@ -2,11 +2,11 @@
  * Translated default messages for bootstrap-select.
  * Locale: JA (Japanese; 日本語)
  * Region: JP (Japan)
- * Author: Richard Snijders (Flaxis)
+ * Author: Richard Snijders (Flaxis)、twinbird、テクニカル諏訪子
  */
 (function ($) {
   $.fn.selectpicker.defaults = {
-    noneSelectedText: '選択されていません',
+    noneSelectedText: '選択してください',
     noneResultsText: '\'{0}\'は見つかりません',
     countSelectedText: '{0}/{1} 選択中',
     maxOptionsText: ['選択上限数を超えています(最大{n}{var})', 'グループの選択上限数を超えています(最大{n}{var})', ['アイテム', 'アイテム']],
